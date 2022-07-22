@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44439",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\upath\\Documents\\Work\\Feliciano\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
